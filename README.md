@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+
 <h1 align="center">Hi 👋, I'm Jerin Saji</h1>
 <h3 align="center">A passionate Backend developer from Kerala -India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119f91b5e9cc9ec87623a68e3cc46b816d148093eb&rid=giphy.gif&ct=g">
