@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerin-saji&label=Profile%20views&color=0e75b6&style=flat" alt="jerin-saji" /> </p>
 
-- 🌱 I’m currently learning **Django , Pandas**
+- 🌱 I’m currently learning **Django - REST Framework , Pandas**
 
 - 💬 Ask me about **Python and Tech related stuffs**
 
