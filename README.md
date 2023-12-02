@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jerin Saji</h1>
-<h3 align="center">A passionate Backend developer from Kerala -India</h3>
+<h3 align="center">A passionate Backend developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119f91b5e9cc9ec87623a68e3cc46b816d148093eb&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerin-saji&label=Profile%20views&color=0e75b6&style=flat" alt="jerin-saji" /> </p>
